@@ -1,0 +1,12 @@
+{
+  "name": "chip8",
+  "dependencies": [
+    {
+      "name": "sfml",
+      "features": [
+        "network",
+        "audio"
+      ]
+    }
+  ]
+}
